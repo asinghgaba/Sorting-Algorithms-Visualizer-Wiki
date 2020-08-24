@@ -1,6 +1,6 @@
 # Sorting Algorithms Visualizer
 
-## Algorithms already implemented:
+## Algorithms:
 - Bubble Sort
 - Merge Sort
 - Quick Sort
