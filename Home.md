@@ -1,6 +1,6 @@
-# Welcome to the Sorting-Algorithms-Visualizer!
+# Sorting Algorithms Visualizer
 
 ## Algorithms already implemented:
-### Bubble Sort
-### Merge Sort
-### Quick Sort
+- Bubble Sort
+- Merge Sort
+- Quick Sort
