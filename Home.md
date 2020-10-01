@@ -4,6 +4,7 @@
 - Selection Sort
 - Insertion Sort
 - Bubble Sort
+- Cocktail Sort
 - Merge Sort
 - Quick Sort
 - Counting Sort
