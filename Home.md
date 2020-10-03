@@ -9,3 +9,4 @@
 - Quick Sort
 - Counting Sort
 - Heap Sort
+- Bucket Sort
