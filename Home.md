@@ -10,11 +10,11 @@ Bubble sort is a comparison-based sorting algorithm in which each pair of adjace
 
 ![bubble sort animated](https://media.giphy.com/media/oz7ZqxKxBP1GCHjVA8/giphy.gif)
 
-- Selection Sort
-- Insertion Sort 
-- Cocktail Sort
-- Merge Sort
-- Quick Sort
-- Counting Sort
-- Heap Sort
-- Bucket Sort
+### Selection Sort
+### Insertion Sort 
+### Cocktail Sort
+### Merge Sort
+### Quick Sort
+### Counting Sort
+### Heap Sort
+### Bucket Sort
