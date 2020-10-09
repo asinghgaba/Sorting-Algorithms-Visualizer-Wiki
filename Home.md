@@ -1,8 +1,5 @@
 # Sorting Algorithms Visualizer
 
-## Contributors
-  - [@viveksoundrapandi](https://github.com/viveksoundrapandi)
-
 ## Algorithms
 
 ### Bubble Sort  
