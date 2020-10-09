@@ -16,6 +16,7 @@ Time complexity:
 ![bubble sort animated](http://www.xybernetics.com/techtalk/SortingAlgorithmsExplained/images/bubble1.gif) 
 
 Source: http://www.xybernetics.com/techtalk/SortingAlgorithmsExplained/SortingAlgorithmsExplained.html
+<br/><br/>
 
 ### Selection Sort
 Selection sort is an in-place comparison-based algorithm in which the list is divided into two parts, the sorted part at the left end and the unsorted part at the right end. Initially, the sorted part is empty and the unsorted part is the entire list.
@@ -28,6 +29,7 @@ Time complexity:
 ![selection sort animated](http://www.xybernetics.com/techtalk/SortingAlgorithmsExplained/images/SelectionEg01.gif)
 
 Source: http://www.xybernetics.com/techtalk/SortingAlgorithmsExplained/SortingAlgorithmsExplained.html
+<br/><br/>
 
 ### Insertion Sort
 Insertion sort is an in-place comparison-based sorting algorithm. Here, a sub-list is maintained which is always sorted. For example, the lower part of an array is maintained to be sorted. An element which is to be 'insert'ed in this sorted sub-list, has to find its appropriate place and then it has to be inserted there. Hence the name, insertion sort. 
@@ -40,6 +42,7 @@ Time complexity:
 ![insertion sort animated](https://i.pinimg.com/originals/92/b0/34/92b034385c440e08bc8551c97df0a2e3.gif)
 
 Source: http://www.xybernetics.com/techtalk/SortingAlgorithmsExplained/SortingAlgorithmsExplained.html
+<br/><br/>
 
 ### Cocktail Sort
 Cocktail Sort is a variation of Bubble sort. The Bubble sort algorithm always traverses elements from left and moves the largest element to its correct position in first iteration and second largest in second iteration and so on. Cocktail Sort traverses through a given array in both directions alternatively.This algorithm is not suitable for large data sets where n is the number of items but is faster than bubble sort.
@@ -50,7 +53,9 @@ Time complexity:
 |O(1)|O(n2)|O(n2)|
 
 ![cocktail sort animated](https://i.makeagif.com/media/11-26-2015/9SMe_Z.gif)
+
 Source: https://www.youtube.com/watch?v=Xmx_6YRBaq8
+<br/><br/>
 
 
 ### Merge Sort
@@ -64,6 +69,7 @@ Time complexity:
 ![merge sort animated](http://www.xybernetics.com/techtalk/SortingAlgorithmsExplained/images/merge.gif)
 
 Source: http://www.xybernetics.com/techtalk/SortingAlgorithmsExplained/SortingAlgorithmsExplained.html
+<br/><br/>
 
 
 ### Quick Sort
@@ -77,6 +83,7 @@ Time complexity:
 ![quick sort animated](http://www.xybernetics.com/techtalk/SortingAlgorithmsExplained/images/quick1.gif)
 
 Source: http://www.xybernetics.com/techtalk/SortingAlgorithmsExplained/SortingAlgorithmsExplained.html
+<br/><br/>
 
 
 ### Counting Sort
@@ -98,6 +105,7 @@ Source: https://nguyenvanhieu.vn/counting-sort/
 ![count sort animated 2](https://1.bp.blogspot.com/-xPqylngqASY/WLGq3p9n9vI/AAAAAAAAAHM/JHdtXAkJY8wYzDMBXxqarjmhpPhM0u8MACLcB/s1600/ResultArrayCS.gif)
 
 Source: https://nguyenvanhieu.vn/counting-sort/
+<br/><br/>
 
 ### Heap Sort
 Heap sort is a comparison based sorting technique based on Binary Heap data structure. It is similar to selection sort where we first find the maximum element and place the maximum element at the end. We repeat the same process for the remaining elements. 
@@ -112,6 +120,7 @@ A Binary Heap is a Complete Binary Tree where items are stored in a special orde
 ![heap sort animated](http://www.xybernetics.com/techtalk/SortingAlgorithmsExplained/images/heap1.gif)
 
 Source: http://www.xybernetics.com/techtalk/SortingAlgorithmsExplained/SortingAlgorithmsExplained.html
+<br/><br/>
 
 
 ### Bucket Sort
