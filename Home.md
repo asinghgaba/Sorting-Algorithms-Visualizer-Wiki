@@ -46,7 +46,7 @@ Time complexity:
 |:-:|:-:|:-:|
 |O(1)|O(n2)|O(n2)|
 
-![cocktail sort animated](cocktail_sort.gif)
+![cocktail sort animated](gifs/cocktail_sort.gif)
 
 <br/><br/>
 
@@ -84,9 +84,7 @@ Time complexity:
 |:-:|:-:|:-:|
 |O(n+k)|O(n+k)|O(n+k)|
 
-![count sort animated](gifs/count_sort.gif)
-
-Source: https://nguyenvanhieu.vn/counting-sort/
+![count sort animated](gifs/counting_sort.gif)
 
 <br/><br/>
 
