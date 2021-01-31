@@ -10,9 +10,8 @@ Time complexity:
 |:-:|:-:|:-:|
 |O(n)|O(n2)|O(n2)|
 
-![bubble sort animated](http://www.xybernetics.com/techtalk/SortingAlgorithmsExplained/images/bubble1.gif) 
+![bubble sort animated](gifs/bubble_sort.gif) 
 
-Source: http://www.xybernetics.com/techtalk/SortingAlgorithmsExplained/SortingAlgorithmsExplained.html
 <br/><br/>
 
 ### Selection Sort
@@ -23,9 +22,8 @@ Time complexity:
 |:-:|:-:|:-:|
 |O(n2)|O(n2)|O(n2)|
 
-![selection sort animated](http://www.xybernetics.com/techtalk/SortingAlgorithmsExplained/images/SelectionEg01.gif)
+![selection sort animated](gifs/selection_sort.gif)
 
-Source: http://www.xybernetics.com/techtalk/SortingAlgorithmsExplained/SortingAlgorithmsExplained.html
 <br/><br/>
 
 ### Insertion Sort
@@ -36,9 +34,8 @@ Time complexity:
 |:-:|:-:|:-:|
 |O(n)|O(n2)|O(n2)|
 
-![insertion sort animated](https://i.pinimg.com/originals/92/b0/34/92b034385c440e08bc8551c97df0a2e3.gif)
+![insertion sort animated](gifs/insertion_sort.gif)
 
-Source: http://www.xybernetics.com/techtalk/SortingAlgorithmsExplained/SortingAlgorithmsExplained.html
 <br/><br/>
 
 ### Cocktail Sort
@@ -49,11 +46,9 @@ Time complexity:
 |:-:|:-:|:-:|
 |O(1)|O(n2)|O(n2)|
 
-![cocktail sort animated](https://i.makeagif.com/media/11-26-2015/9SMe_Z.gif)
+![cocktail sort animated](cocktail_sort.gif)
 
-Source: https://www.youtube.com/watch?v=Xmx_6YRBaq8
 <br/><br/>
-
 
 ### Merge Sort
 Merge sort is a sorting technique based on divide and conquer technique. It is one of the most respected algorithms. Merge sort first divides the array into equal halves and then combines them in a sorted manner.
@@ -63,9 +58,8 @@ Time complexity:
 |:-:|:-:|:-:|
 |O(nlogn)|O(nlogn)|O(nlogn)|
 
-![merge sort animated](http://www.xybernetics.com/techtalk/SortingAlgorithmsExplained/images/merge.gif)
+![merge sort animated](gifs/merge_sort.gif)
 
-Source: http://www.xybernetics.com/techtalk/SortingAlgorithmsExplained/SortingAlgorithmsExplained.html
 <br/><br/>
 
 
@@ -77,9 +71,8 @@ Time complexity:
 |:-:|:-:|:-:|
 |O(nlogn)|O(nlogn)|O(n2)|
 
-![quick sort animated](http://www.xybernetics.com/techtalk/SortingAlgorithmsExplained/images/quick1.gif)
+![quick sort animated](gifs/quick_sort.gif)
 
-Source: http://www.xybernetics.com/techtalk/SortingAlgorithmsExplained/SortingAlgorithmsExplained.html
 <br/><br/>
 
 
@@ -91,17 +84,10 @@ Time complexity:
 |:-:|:-:|:-:|
 |O(n+k)|O(n+k)|O(n+k)|
 
-**Filling the count array:**
-
-![count sort animated 1](https://3.bp.blogspot.com/-jJchly1BkTc/WLGqCFDdvCI/AAAAAAAAAHA/luljAlz2ptMndIZNH0KLTTuQMNsfzDeFQCLcB/s1600/CSortUpdatedStepI.gif)
+![count sort animated](gifs/count_sort.gif)
 
 Source: https://nguyenvanhieu.vn/counting-sort/
 
-**Actual sorting:**
-
-![count sort animated 2](https://1.bp.blogspot.com/-xPqylngqASY/WLGq3p9n9vI/AAAAAAAAAHM/JHdtXAkJY8wYzDMBXxqarjmhpPhM0u8MACLcB/s1600/ResultArrayCS.gif)
-
-Source: https://nguyenvanhieu.vn/counting-sort/
 <br/><br/>
 
 ### Heap Sort
@@ -114,9 +100,8 @@ Time complexity:
 
 A Binary Heap is a Complete Binary Tree where items are stored in a special order such that value in a parent node is greater(or smaller) than the values in its two children nodes. The former is called as max heap and the latter is called min-heap. The heap can be represented by a binary tree or array.
 
-![heap sort animated](http://www.xybernetics.com/techtalk/SortingAlgorithmsExplained/images/heap1.gif)
+![heap sort animated](gifs/heap_sort.gif)
 
-Source: http://www.xybernetics.com/techtalk/SortingAlgorithmsExplained/SortingAlgorithmsExplained.html
 <br/><br/>
 
 
@@ -130,6 +115,4 @@ Time complexity:
 |O(n+k)|O(n+k)|O(n2)|
 
 
-![bucket sort animated](https://miro.medium.com/max/800/1*_2l-UN7jcQp54hgazT6iVA.gif)
-
-Source: https://medium.com/@allegranzia/bucket-sort-in-ruby-a062d60ca4b3
+![bucket sort animated](gifs/bucket_sort.gif)
